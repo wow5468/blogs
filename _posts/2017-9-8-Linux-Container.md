@@ -55,5 +55,4 @@ On disk, containers can be very light:
         
 **References**
 
-Link: [Linux Containers: Parallels, LXC, OpenVZ, Docker and More][container]
-[container]: https://aucouranton.com/2014/06/13/linux-containers-parallels-lxc-openvz-docker-and-more/
+[Linux Containers: Parallels, LXC, OpenVZ, Docker and More](https://aucouranton.com/2014/06/13/linux-containers-parallels-lxc-openvz-docker-and-more/)
